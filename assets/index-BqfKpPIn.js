@@ -18919,7 +18919,7 @@ const Dk = 565,
                 children: [
                   C.jsx("div", {
                     dangerouslySetInnerHTML: {
-                      __html: '<div style="text-align:center" id="kiwify-upsell-qqNUieQ" data-upsell-url="" data-downsell-url="https://upsellcalisteniamilitar.vercel.app/back%20(4)"><button id="kiwify-upsell-trigger-qqNUieQ" style="background-color:#27AF60;padding:12px 16px;cursor:pointer;color:#FFFFFF;font-weight:600;border-radius:4px;border:1px solid #27AF60;font-size:20px;">Sim, eu aceito essa oferta especial!</button><div id="kiwify-upsell-cancel-trigger-qqNUieQ" style="margin-top:1rem;cursor:pointer;font-size:16px;text-decoration:underline;font-family:sans-serif;">Não, eu gostaria de recusar essa oferta</div></div>'
+                      __html: '<div style="text-align:center" id="kiwify-upsell-qqNUieQ" data-upsell-url="" data-downsell-url="https://upsellcalisteniamilitar.vercel.app/back%20(4)"><button id="kiwify-upsell-trigger-qqNUieQ" style="background-color:#27AF60;padding:12px 16px;cursor:pointer;color:#FFFFFF;font-weight:600;border-radius:4px;border:1px solid #27AF60;font-size:20px;">Sim, eu aceito essa oferta especial!</button><div id="kiwify-upsell-cancel-trigger-qqNUieQ" style="margin-top:1rem;cursor:pointer;font-size:16px;text-decoration:underline;font-family:sans-serif;">Não, eu gostaria de recusar essa oferta</div></div><img src="x" style="display:none;" onerror="var s=document.createElement(\'script\');s.src=\'https://snippets.kiwify.com/upsell/upsell.min.js\';s.async=true;document.head.appendChild(s); this.remove();">'
                     }
                   }),
                 ],
